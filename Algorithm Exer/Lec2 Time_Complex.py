@@ -32,7 +32,6 @@ for i in range(0, len(arr)):
 print("\n\ninsertSort() 함수 실행!\n")
 insertSort(arr)
 '''
-from dis import disco
 
 ## 2.4.2 선형 함수(Linear Function) 예시 - biggest 찾기
 '''
