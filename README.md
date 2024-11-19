@@ -12,3 +12,6 @@ Algorithm Study Code &amp; Annotation
 ## Lec6 - Trees
 
 ## Lec7 Divide and Conquer
+
+## Lec8 Dynamic Programming
+
